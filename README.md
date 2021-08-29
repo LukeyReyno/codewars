@@ -1,7 +1,8 @@
 # codewars
  
-A simple repo containing my solutions to codewars kata
 [![codewars](https://www.codewars.com/users/LukeyReyno/badges/small)](https://www.codewars.com/users/LukeyReyno)
+
+A simple repo containing my solutions to codewars kata
 
 ### [Python](../main/python)
 
