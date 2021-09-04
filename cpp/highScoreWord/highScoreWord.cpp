@@ -63,7 +63,7 @@ std::string highestScoringWord(const std::string &str)
 
 /* Example Solution
 
-std::string highestScoringWord(const std::string &str)
+std::string higestScoringWord(const std::string &str)
 {
   std::istringstream stm(str);
   std::string token, maxString;
